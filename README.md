@@ -12,11 +12,11 @@
 
 ## Features
 
--- Ability to add, delete and read all the coffees/teas
+- Ability to add, delete and read all the coffees/teas
 
--- Es lint addition for fixing syntax errors, code styles and removing unnecessary code
+- Es lint addition for fixing syntax errors, code styles and removing unnecessary code
 
--- Search Feature on the frontend based on name,weight,price and roast level as well as backend for name
+* Search Feature on the frontend based on name,weight,price and roast level as well as backend for name
 
 Example of list search in backend
 
