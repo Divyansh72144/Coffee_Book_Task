@@ -1,0 +1,4 @@
+build/*
+.env
+.eslintignore
+.gitignore
